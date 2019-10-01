@@ -1,4 +1,4 @@
-module Exercises where
+module Examples where
 
 myTake _ [] = []
 myTake 0 _  = []
